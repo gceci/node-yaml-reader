@@ -1,0 +1,27 @@
+#sample yaml file to reproduce data specs
+subject:
+  id: 0
+  name: Guido
+  gender: male
+  age: 35
+  isHandsome: true
+  specifications:
+    haircolor: dark
+    eyecolor: dark
+    isNerd: true
+    isArchitect: true
+array:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+boolean:
+  - true
+  - false
+key_object:
+  nested-object-1:
+    nested-object-2:
+      preferred-quote: per aspera ad astra
+      number-attribute: 12345
+string: text
